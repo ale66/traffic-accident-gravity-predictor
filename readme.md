@@ -16,7 +16,7 @@ The dataset can potentially stimulate diverse aspects of machine learning resear
 Please use the following reference:
 
 ```bibtex
-@inproceedings{eann22
+@inproceedings{eann22,
   author    = {Predicting Seriousness of Injury in a Traffic Accident},
   editor    = {Lazaros Iliadis et al.},
   title     = {Paschalis Lagias and George D. Magoulas and Ylli Prifti and Alessandro Provetti},
