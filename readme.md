@@ -1,4 +1,4 @@
-# traffic-accident-gravity-predictor
+## The traffic-accident-gravity-predictor project
 
 ## A new dataset and a new pipeline for the UK traffic data.
 
@@ -30,3 +30,15 @@ Please use the following reference:
   doi       = {}
 }
 ```
+
+
+### The team
+
+Our work is carried out at Birkbeck, University of London, [Dept. of Computer Science & Information Systems](https://www.dcs.bbk.ac.uk/).
+
+Members are [George Magoulas](https://www.dcs.bbk.ac.uk/about/people/academic-staff/gmagoulas/) and [Alessandro Provetti](https://www.dcs.bbk.ac.uk/~ale/) from Birkbeck and [Paschalis Lagias](https://github.com/PaschalisLagias), MSc Data Science.
+
+
+
+
+
