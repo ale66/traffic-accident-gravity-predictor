@@ -36,7 +36,7 @@ Please use the following reference:
 
 Our work is carried out at Birkbeck, University of London, [Dept. of Computer Science & Information Systems](https://www.dcs.bbk.ac.uk/).
 
-Members are [George Magoulas](https://www.dcs.bbk.ac.uk/about/people/academic-staff/gmagoulas/) and [Alessandro Provetti](https://www.dcs.bbk.ac.uk/~ale/) from Birkbeck and [Paschalis Lagias](https://github.com/PaschalisLagias), MSc Data Science.
+Members are [George Magoulas](https://www.dcs.bbk.ac.uk/about/people/academic-staff/gmagoulas/), [Paschalis Lagias](https://github.com/PaschalisLagias), [Ylli Prifti](https://www.dcs.bbk.ac.uk/about/people/research-students/yprift01/) and [Alessandro Provetti](https://www.dcs.bbk.ac.uk/~ale/).
 
 
 
